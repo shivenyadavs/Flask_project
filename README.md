@@ -16,4 +16,4 @@ Video Meeting App This project is a video meeting application built using the Ze
 - **Frontend**: ![HTML](https://img.icons8.com/color/20/000000/html-5.png) ![CSS](https://img.icons8.com/color/20/000000/css3.png) ![JavaScript](https://img.icons8.com/color/20/000000/javascript.png)
 - **Backend**: ![Python](https://img.icons8.com/color/20/000000/python.png) ![Flask](https://img.icons8.com/ios-filled/20/000000/flask.png) Zego Cloud API
 ***
-<img src="https://path/to/your/icon.png" alt="icon" width="20" height="20">
+<img src="Screenshot 2024-06-11 155545.png" alt="icon" width="800" height="800">
